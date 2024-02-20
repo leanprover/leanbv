@@ -34,7 +34,9 @@ prompt you to confirm the licensing of your contribution.
 
 ### What to Expect
 
-**Be Patient**: Reviewing your contribution may take some time!
+**Be Patient**: Reviewing your contribution may take some time!  We
+will try to respond to your issue or pull request within a period of
+two weeks.
 
 **Not All PRs Get Merged**: We value every contribution. However, to
 enable code maintainability and quality, we will merge only those PRs

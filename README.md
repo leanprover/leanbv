@@ -22,8 +22,8 @@ bit-vectors, and are well suited to automation through SAT.
 
 `leanbv` is a start at a tactic for Lean that can convert proof goals
 into SAT problems, invoke a solver, and then soundly interpret SAT and
-UNSAT results back into the Lean without the a trusted assumption.
-Adding this capability to Lean will enable other projects to apply SAT
+UNSAT results back into the Lean without a trusted assumption.  Adding
+this capability to Lean will enable other projects to apply SAT
 solving to their goals.
 
 
